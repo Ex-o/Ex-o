@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://cp.fayox.com/
+I like to build or maybe break stuff using code. Currently getting paid for it by @ Google.
 <!--
 **Ex-o/Ex-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
